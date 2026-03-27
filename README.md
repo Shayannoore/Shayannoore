@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenCV-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SpaCy-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangSmith-purple?style=for-the-badge" />
+
 </p>
 
 ---
