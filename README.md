@@ -14,6 +14,7 @@
 - ⚙️ Integrating tools using **n8n**
 - 📱 Developing cross-platform apps with **React Native**
 - 💡 Passionate about **LLM-powered applications**
+- 🤖 Chatbots and RAG Systems**
 
 ---
 
